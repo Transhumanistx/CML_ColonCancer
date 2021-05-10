@@ -7,3 +7,11 @@ In this assignment our team is going to classify histopathelogy images of colon 
 01/05/21
 ------------------
 We have our initial meetings to discuss the preliminary aspect of the assignment and to introduce ourselves as well. 
+
+07/05/21
+------------------
+Nathan has showed what he has done using NNs and result. We have discussed how to use other model and possible direction for EDA.
+
+10/05/21
+------------------
+Tan has pushed the code where he developed several CNN model and Scheduled an immediate meeting. 
