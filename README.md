@@ -15,3 +15,7 @@ Nathan has showed what he has done using NNs and result. We have discussed how t
 10/05/21
 ------------------
 Tan has pushed the code where he developed several CNN model and Scheduled an immediate meeting. 
+
+11/05/21
+------------------
+Nathan pushed his code containing the basic image recognition model to commence EDA.
