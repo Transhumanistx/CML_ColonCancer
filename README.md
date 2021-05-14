@@ -19,3 +19,8 @@ Tan has pushed the code where he developed several CNN model and Scheduled an im
 11/05/21
 ------------------
 Nathan pushed his code containing the basic image recognition model to commence EDA.
+
+14/05/21
+------------------
+Nathan created a draft for the report
+Nathan added extra notes and visuals for EDA
