@@ -24,3 +24,20 @@ Nathan pushed his code containing the basic image recognition model to commence 
 ------------------
 Nathan created a draft for the report
 Nathan added extra notes and visuals for EDA
+
+20/05/21
+------------------
+Tan finished developing transfer learning. 
+
+25/05/21
+------------------
+Both team member tried to improve the models performances. 
+
+
+27/05/21
+------------------
+Team members started to write the report
+
+30/05/21
+------------------
+Final revision and submitted.
